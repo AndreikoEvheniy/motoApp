@@ -1,7 +1,5 @@
 package com.company.motoApp.models;
 
-import org.springframework.web.multipart.MultipartFile;
-
 import javax.persistence.*;
 
 @Entity
